@@ -46,8 +46,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebbyMcQueen&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-📈 See all my contributions on [GitHub Graph](https://github.com/SebbyMcQueen)
-
 ---
 
 
