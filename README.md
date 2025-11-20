@@ -39,16 +39,6 @@
 </p>
 
 ---
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebbyMcQueen&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-
 <p align="center">
   💡 *Always learning. Always building.*  
 </p>
