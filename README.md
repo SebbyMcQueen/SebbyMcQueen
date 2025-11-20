@@ -34,7 +34,9 @@
 
 ### 📊 My GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebbyMcQueen&langs_count=10&layout=compact&theme=tokyonight&hide_progress=false&card_width=450" alt="Sebastian's Top Languages" />
+</p>
 
 ---
 
